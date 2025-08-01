@@ -1,6 +1,6 @@
 # About Oasis Engineering LLC
 
-We are a modern structural engineering firm focused on empowering homeowners, builders, and developers with open, code-aligned tools and engineering services — from wind load calculations and container home designs to permit-ready engineering letters.
+We are a modern engineering technology firm focused on empowering homeowners, builders, and developers with open, code-aligned tools and engineering services — from wind load calculations and container home designs to permit-ready engineering letters.
 
 - 🛠️ Based in Florida — Licensed PE in multiple states
 - 📦 Experts in shipping container structures and resilient design
