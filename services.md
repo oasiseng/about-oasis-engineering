@@ -1,67 +1,141 @@
-# 🛠️ Oasis Engineering Services
+# Oasis Engineering Services
 
-We provide residential and light commercial structural engineering services, code compliance reports, and digital design tools — all rooted in clarity, simplicity, and permit success.
+Oasis Engineering is easiest to understand as a set of clear service lanes, each with its own best intake path.
 
----
+The goal of this page is not to explain internal process. It is to help someone quickly recognize, "Yes, this is the right place," and then start in the right spot.
 
-## ✅ Permit-Ready Engineering Letters
+## Engineer Letters
 
-Stamped and signed engineering letters available for:
-- Wind Load Calculations (ASCE 7)
-- Foundation Certification for Manufactured Homes (HUD/FHA/VA compliant)
-- Structural Certification for Additions, Solar, Pergolas, and Accessory Structures
-- Generator Slab Certification and Anchor Calculations
-- Retaining Wall and Fence Engineering (as required by local code)
-- Permit Closure, Covered Work Letters, and more.
+This is the broadest category and includes general letters, permit-related letters, compliance-driven letters, and project-specific structural documentation.
 
-📍 Available in Florida, Texas, and additional licensed states.  
-📧 Email [info@oasisengineering.com](mailto:info@oasisengineering.com) for availability in your area.
+Best starting points:
 
----
+- General engineer letter: [https://oasisengineering.com/engineer-letters#form](https://oasisengineering.com/engineer-letters#form)
+- Permit or compliance letter: [https://oasisengineering.com/lets-get-in-touch-permit-letter/](https://oasisengineering.com/lets-get-in-touch-permit-letter/)
+- Manufactured or mobile home foundation certification: [https://oasisengineering.com/manufactured-home-foundation-letter/](https://oasisengineering.com/manufactured-home-foundation-letter/)
 
-## 📦 Container Home Design & Consulting
+Typical requests:
 
-We specialize in container-based structures:
-- DIY Floor Plan Packages (20ft, 40ft, multi-unit)
-- Custom container home design (with or without PE stamping)
-- Code review and site-specific feasibility
-- Foundation design for container installation
-- Shipping container ADU or office conversion guidance
+- structural certification letters
+- permit closeout support
+- lender or mortgage compliance letters
+- foundation-related letters
+- project-specific documentation requested by a city, county, lender, or reviewer
 
-Shop pre-made plans on [our Etsy store](https://www.oasisengineering.etsy.com) or learn more at [our website](https://www.oasisengineering.com/oasis-container-homes)
+## Roofing Virtual Inspections And Reroof Letters
 
----
+This lane is for reroof projects that need a third-party engineer letter, dry-in review, final inspection support, or permit closeout help.
 
-## 🎨 Art & Specialty Installations
+Best starting point:
 
-Licensed engineering for public art foundations, sculptures, and display structures:
-- Custom base and anchoring design
-- Collaboration with artists and fabricators
-- Structures, Sculptures, Gates, Canopies, etc.
+- Roofing virtual inspection: [https://oasisengineering.com/roof-virtual-insp-same-day/](https://oasisengineering.com/roof-virtual-insp-same-day/)
 
-Recent partners: Dibari and Associates, Luy Art, JUBOPADEL International, multiple public art projects in FL/AZ.
+Typical requests:
 
----
+- reroof engineer letter
+- dry-in inspection
+- final inspection support
+- missed inspection / permit needs to be closed
 
-## 📐 Drafting, 3D Rendering, and Collaboration Services
+## Wind Calculations And Wind Engineering Reports
 
-- CAD drafting, engineering drawings for permit submittals
-- 3D visualization for design approvals
-- Coordination with architects and builders
+This lane should be treated as its own category. Even if someone calls it a letter request, if the actual scope is wind engineering it belongs here as a wind project.
 
-We provide full PDF plan sets, including structural sheets, for permit submission.
+Best starting point:
 
----
+- Wind calculations intake: [https://windcalculations.com/contact](https://windcalculations.com/contact)
 
-## 🤝 Custom Requests & Partnerships
+If the request clearly matches one of the pre-packaged wind solutions, use the direct product page instead:
 
-We’re happy to quote unique requests including:
-- Wind retrofit evaluations
-- Permit resolution support for homeowners
-- Modular housing system prototyping
-- Engineering mentorship or consulting for early-stage startups
+- Direct package guide: [wind-packages.md](wind-packages.md)
 
----
+Typical requests:
 
-_For a quote or consultation, email [info@oasisengineering.com](mailto:info@oasisengineering.com) or visit [https://oasisengineering.com](https://oasisengineering.com)._
+- wind load calculations
+- design wind pressures
+- ASCE 7 reports
+- product approval gaps
+- missing NOA or manufacturer wind ratings
+- signed and sealed wind drawings for openings, components, or cladding
 
+## Energy Calculations
+
+This lane covers residential energy-code-related documentation and related report requests.
+
+Best starting point:
+
+- Energy calculations intake: [https://oasisengineering.com/energy-calcs-intake-form/](https://oasisengineering.com/energy-calcs-intake-form/)
+
+Typical requests:
+
+- energy calculations
+- energy compliance report
+- Manual J / Manual S / Manual D requests
+- permit-related energy documentation
+
+## Soil Compaction Testing
+
+This lane is for compaction testing and PE-stamped compaction certification tied to slabs, pads, and foundations, whether the project already has a lab Proctor report or still needs a fuller testing path.
+
+Best starting point:
+
+- Soil compaction testing: [https://oasisengineering.com/soil-compaction-testing/](https://oasisengineering.com/soil-compaction-testing/)
+
+Typical requests:
+
+- compaction certification before a pour
+- failed inspection re-test
+- slab or foundation pad verification
+- residential or small-site field testing
+- projects with or without an existing lab Proctor report
+
+## Container Structures
+
+Oasis also supports shipping container projects and early-stage structural concepts that do not fit neatly into a standard intake form.
+
+Best starting points:
+
+- Main website: [https://oasisengineering.com](https://oasisengineering.com)
+- General contact: [https://oasisengineering.com/contact](https://oasisengineering.com/contact)
+
+Typical requests:
+
+- shipping container homes
+- container foundations
+- custom structural concepts
+
+## Public Art, Monuments, And Sculptural Installations
+
+This lane is for artists, fabricators, developers, municipalities, and teams building public-facing sculptural work that needs real engineering behind it.
+
+Oasis supports public art and monument projects with structural engineering, 3D rendering, and analysis that help translate artistic vision into something buildable, durable, and review-ready.
+
+Best starting points:
+
+- Public art and monument engineering: [https://oasisengineering.com/resources/consulting/public-art-monument-engineering/](https://oasisengineering.com/resources/consulting/public-art-monument-engineering/)
+- General contact: [https://oasisengineering.com/contact](https://oasisengineering.com/contact)
+
+Typical requests:
+
+- public art sculptures
+- monuments and memorial structures
+- kinetic art installations
+- entrance monuments and community features
+- custom foundations and anchorage for artwork
+- 3D renderings and engineering support for approvals, fabrication, and installation
+
+## Ready Set Orange
+
+Ready Set Orange is a dedicated Orange County, Florida program with its own intake path.
+
+Best starting point:
+
+- Ready Set Orange: [https://readysetorange.com/](https://readysetorange.com/)
+
+## If You Are Unsure
+
+Use the general contact form:
+
+- [https://oasisengineering.com/contact](https://oasisengineering.com/contact)
+
+Or use the fast directory in [routes.md](routes.md).
