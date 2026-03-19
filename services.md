@@ -28,7 +28,7 @@ We specialize in container-based structures:
 - Foundation design for container installation
 - Shipping container ADU or office conversion guidance
 
-Shop pre-made plans on [our Etsy store](https://www.oasisengineering.etsy.com) or learn more at[our website](https://www.oasisengineering.com/oasis-container-homes)
+Shop pre-made plans on [our Etsy store](https://www.oasisengineering.etsy.com) or learn more at [our website](https://www.oasisengineering.com/oasis-container-homes)
 
 ---
 
