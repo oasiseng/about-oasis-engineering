@@ -1,49 +1,46 @@
-# Contact And Intake Guidance
+# Contact and intake
 
-Oasis works best when people start with the most specific intake form available.
+The fastest way to reach Oasis is the intake on the website. It asks only what your service needs, takes your photos and documents, and shows a typical price range before you send anything. It also saves your answers as you go: if you stop halfway, we email you a link to pick up where you left off.
 
-Please give us as much useful information up front as you can. That helps the team understand the project faster and cuts down on back-and-forth.
+## Start with the most specific link
 
-## Use A Specific Form When You Can
+| Need | Link |
+|---|---|
+| Engineer letter | [oasisengineering.com/contact/?service=letter.general](https://oasisengineering.com/contact/?service=letter.general) |
+| Manufactured / mobile home foundation | [oasisengineering.com/manufactured-home-foundation-letter/](https://oasisengineering.com/manufactured-home-foundation-letter/) |
+| Modular / Boxabl foundation | [oasisengineering.com/contact/?service=letter.box-foundation](https://oasisengineering.com/contact/?service=letter.box-foundation) |
+| Roof virtual inspection | [oasisengineering.com/contact/?service=letter.roof-virtual](https://oasisengineering.com/contact/?service=letter.roof-virtual) |
+| Wind calculations | [windcalculations.com/contact](https://windcalculations.com/contact) |
+| Energy calculations | [oasisengineering.com/contact/?service=calc.energy](https://oasisengineering.com/contact/?service=calc.energy) |
+| Plan review | [oasisengineering.com/contact/?service=review.plans](https://oasisengineering.com/contact/?service=review.plans) |
+| Soil compaction testing | [oasisengineering.com/contact/?service=field.soil-compaction](https://oasisengineering.com/contact/?service=field.soil-compaction) |
+| Anything else | [oasisengineering.com/contact/](https://oasisengineering.com/contact/) |
 
-- General engineer letter: [https://oasisengineering.com/engineer-letters#form](https://oasisengineering.com/engineer-letters#form)
-- Permit or compliance letter: [https://oasisengineering.com/lets-get-in-touch-permit-letter/](https://oasisengineering.com/lets-get-in-touch-permit-letter/)
-- Roofing virtual inspection: [https://oasisengineering.com/roof-virtual-insp-same-day/](https://oasisengineering.com/roof-virtual-insp-same-day/)
-- Manufactured or mobile home foundation certification: [https://oasisengineering.com/manufactured-home-foundation-letter/](https://oasisengineering.com/manufactured-home-foundation-letter/)
-- Wind calculations: [https://windcalculations.com/contact](https://windcalculations.com/contact)
-- Energy calculations: [https://oasisengineering.com/energy-calcs-intake-form/](https://oasisengineering.com/energy-calcs-intake-form/)
-- Soil compaction testing: [https://oasisengineering.com/soil-compaction-testing/](https://oasisengineering.com/soil-compaction-testing/)
-- General contact: [https://oasisengineering.com/contact](https://oasisengineering.com/contact)
+The full map is in [routes.md](routes.md).
 
-## Use General Contact When
+## What to have ready
 
-- you are not sure which lane fits
-- the project is custom or early-stage
-- the request spans multiple services
-- you are reaching out for partnership or collaboration
+- the property address
+- who is asking for the work (building department, inspector, lender, buyer, HOA…) and what they need
+- photos, permits, plans, inspection reports, correction notices or product sheets
+- any deadline, such as a closing or an inspection date
 
-General contact:
+## What happens next
 
-- Form: [https://oasisengineering.com/contact](https://oasisengineering.com/contact)
+1. You see a reference number (`OE-…`) on screen and get a confirmation email.
+2. A licensed engineer reviews your request personally.
+3. Your quote arrives by the end of the business day; if you send it after 4pm Eastern, the next business day. Fixed-price services go straight to secure checkout.
+4. To add files or details later, reply to your confirmation email.
+
+## Other ways to reach us
+
 - Email: [info@oasisengineering.com](mailto:info@oasisengineering.com)
-- Main site: [https://oasisengineering.com](https://oasisengineering.com)
+- Website: [oasisengineering.com](https://oasisengineering.com)
 
-## Helpful Context To Include
+For architects, builders, permit expeditors, fabricators or organizations with unusual scopes, start at [oasisengineering.com/contact/](https://oasisengineering.com/contact/) and choose "Something else."
 
-- property address
-- city, county, or AHJ
-- what outcome is needed
-- plans, photos, cutsheets, comments, or prior reports
-- timing constraints or review deadlines
+Contractors and inspectors who want to do field work for us: [oasisengineering.com/field-partners/](https://oasisengineering.com/field-partners/).
 
-## Partnerships And Custom Work
+## Open-source tools
 
-For architects, builders, permit expeditors, artists, specialty fabricators, or organizations with unusual scopes, start here:
-
-- [https://oasisengineering.com/contact](https://oasisengineering.com/contact)
-
-## Open-Source Tools
-
-If the inquiry is about an Oasis tool rather than a paid service, use the relevant GitHub repository when possible:
-
-- Example issue tracker: [https://github.com/oasiseng/fbc-energy-estimator/issues](https://github.com/oasiseng/fbc-energy-estimator/issues)
+For questions about an Oasis tool rather than a paid service, use that tool's GitHub repository, for example [fbc-energy-estimator issues](https://github.com/oasiseng/fbc-energy-estimator/issues).

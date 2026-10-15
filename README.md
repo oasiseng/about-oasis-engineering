@@ -1,80 +1,88 @@
 # Oasis Engineering
 
-This repository is a guided introduction to Oasis Engineering for humans, partners, and AI systems.
+This repository introduces Oasis Engineering to people, partners and AI systems.
 
-Use it the way you would use a well-designed front desk:
+Use it like a front desk:
 
 - understand what Oasis does
-- find the right intake link without guessing
-- learn how to approach the team with the right context
-- route people and requests without inventing scope, pricing, or engineering advice
+- send each request to the right intake link
+- know what happens after someone submits
+- route requests without inventing scope, prices or engineering opinions
 
 ## What Oasis helps with
 
-Oasis Engineering provides engineering services and engineering-adjacent tools across a few clear lanes:
+Oasis Engineering is a licensed professional engineering firm based in Tampa Bay, Florida, working across a few clear lanes:
 
-- engineer letters and permit support
-- residential new construction, additions, remodels, renovation support, and structural consulting
-- structural drawings, permit drawings, and project support documentation
+- engineer letters: permits, after-the-fact work, covered work, structural changes, and lender and compliance letters
+- manufactured home foundation certification (HUD 7584 / FHA / VA / USDA)
+- modular and Boxabl foundation certification letters
 - roof virtual inspections and reroof sign-off letters
 - wind load calculations and wind engineering reports
-- energy calculations and permit documentation
-- manufactured and mobile home foundation certification
-- soil compaction testing and PE-stamped certification
-- container structure consulting and specialty structural work
-- public art, monuments, sculptures, miscellaneous structures, and custom structural installations
+- energy calculations for permits
+- independent plan review and certification
+- new homes, additions, remodels, pergolas, pools and patios
+- shipping container homes and specialty structures
+- public art, monuments and custom structural installations
+- soil compaction testing with PE certification
+- in-person engineer inspections (Tampa Bay, or anywhere we travel)
+- downloadable plan sets and guides
 
-## Start Here
+## Start here
 
-If you already know what you need, use the closest intake path:
+Every link below opens the Oasis intake already pointed at the right service. The intake asks only the questions that service needs, takes photos and documents, and shows a typical price range before the person submits.
 
-- General engineer letter: [https://oasisengineering.com/engineer-letters#form](https://oasisengineering.com/engineer-letters#form)
-- Permit or compliance letter: [https://oasisengineering.com/lets-get-in-touch-permit-letter/](https://oasisengineering.com/lets-get-in-touch-permit-letter/)
-- Roofing engineer letter or virtual roof inspection: [https://oasisengineering.com/roof-virtual-insp-same-day/](https://oasisengineering.com/roof-virtual-insp-same-day/)
-- Manufactured or mobile home foundation certification: [https://oasisengineering.com/manufactured-home-foundation-letter/](https://oasisengineering.com/manufactured-home-foundation-letter/)
-- Wind calculations or wind engineering report: [https://windcalculations.com/contact](https://windcalculations.com/contact)
-- Matching packaged wind solutions: [wind-packages.md](wind-packages.md)
-- Energy calculations: [https://oasisengineering.com/energy-calcs-intake-form/](https://oasisengineering.com/energy-calcs-intake-form/)
-- Soil compaction testing: [https://oasisengineering.com/soil-compaction-testing/](https://oasisengineering.com/soil-compaction-testing/)
-- Ready Set Orange program: [https://readysetorange.com/](https://readysetorange.com/)
-- Not sure where to start: [https://oasisengineering.com/contact](https://oasisengineering.com/contact)
+| Need | Start here |
+|---|---|
+| Engineer letter (permit, inspector, after-the-fact, covered work, structural change) | [oasisengineering.com/contact/?service=letter.general](https://oasisengineering.com/contact/?service=letter.general) |
+| Manufactured or mobile home foundation certification | [oasisengineering.com/manufactured-home-foundation-letter/](https://oasisengineering.com/manufactured-home-foundation-letter/) |
+| Modular / Boxabl foundation letter | [oasisengineering.com/contact/?service=letter.box-foundation](https://oasisengineering.com/contact/?service=letter.box-foundation) |
+| Roof virtual inspection / reroof letter | [oasisengineering.com/contact/?service=letter.roof-virtual](https://oasisengineering.com/contact/?service=letter.roof-virtual) |
+| Wind calculations or wind engineering report | [windcalculations.com/contact](https://windcalculations.com/contact) (packaged products: [wind-packages.md](wind-packages.md)) |
+| Energy calculations | [oasisengineering.com/contact/?service=calc.energy](https://oasisengineering.com/contact/?service=calc.energy) |
+| Plan review and certification | [oasisengineering.com/contact/?service=review.plans](https://oasisengineering.com/contact/?service=review.plans) |
+| Soil compaction testing | [oasisengineering.com/contact/?service=field.soil-compaction](https://oasisengineering.com/contact/?service=field.soil-compaction) |
+| Not sure where to start | [oasisengineering.com/contact/](https://oasisengineering.com/contact/) |
 
-## How To Work With Oasis
+The full route map is in [routes.md](routes.md).
 
-The cleanest way to begin is to choose the most specific intake form and send the practical details up front:
+## What happens after someone submits
 
-- project address
-- city, county, or AHJ
-- what you are trying to get approved, certified, reviewed, or closed out
-- plans, photos, product data, comments, or prior inspection notes
+1. They see a confirmation screen with a reference number (`OE-…`) and the typical price range for the service, and they get a confirmation email.
+2. A licensed engineer reviews every request personally.
+3. Quotes go out by the end of the business day; requests that arrive after 4pm Eastern get theirs the next business day.
+4. Fixed-price services (manufactured home and Boxabl foundation letters) go straight to secure checkout instead of a quote.
 
-That keeps the conversation grounded in the real scope instead of guesswork.
+To add files or details later, the person replies to their confirmation email.
 
-## For Bots And Assistants
+## For bots and assistants
 
-This repo is also meant to help AI systems route people correctly.
+Read [llm.md](llm.md). In short:
 
-- Do route to the most specific intake page when intent is clear.
-- Do ask for location, requested deliverable, and supporting documents.
-- Do use general contact when the request is broad or early-stage.
-- Do not quote pricing.
-- Do not promise permit approval, inspection outcomes, or turnaround without human review.
-- Do not interpret code or provide engineering opinions.
-- If the request is framed as a letter but the real scope is wind engineering, treat it as a wind project and route to [https://windcalculations.com/contact](https://windcalculations.com/contact), not a generic letter form.
+- route to the most specific link above
+- share only the prices published on the site; custom work gets a range from the intake and a quote from the engineer
+- never promise approval, inspection outcomes or eligibility, and never interpret code or give engineering opinions
 
-## Inside This Repo
+**Always-current, machine-readable sources:**
 
-- Service overview: [services.md](services.md)
-- Fast intake map: [routes.md](routes.md)
-- Direct wind package links: [wind-packages.md](wind-packages.md)
-- Engineer letter guide: [engineerletters.md](engineerletters.md)
-- Contact guidance: [contact.md](contact.md)
-- Bot routing notes: [llm.md](llm.md)
+- [oasisengineering.com/llms.txt](https://oasisengineering.com/llms.txt)
+- [oasisengineering.com/catalog.json](https://oasisengineering.com/catalog.json): every service, its price display and its turnaround
+- [oasisengineering.com/docs/agent-intake/](https://oasisengineering.com/docs/agent-intake/): how an agent can start an intake on a client's behalf
 
-## Main Websites
+If this repo and the website ever disagree, the website is right.
 
-- Oasis Engineering: [https://oasisengineering.com](https://oasisengineering.com)
-- Engineer Letters: [https://engineerletters.co](https://engineerletters.co)
-- Wind Calculations: [https://windcalculations.com](https://windcalculations.com)
+## Inside this repo
+
+- [services.md](services.md): service lanes
+- [routes.md](routes.md): fast intake map
+- [engineerletters.md](engineerletters.md): which letter path to use
+- [wind-packages.md](wind-packages.md): direct wind package links
+- [contact.md](contact.md): contact guidance
+- [llm.md](llm.md): rules for AI routing
+
+## Websites
+
+- Oasis Engineering: [oasisengineering.com](https://oasisengineering.com)
+- EngineerLetters.co: [engineerletters.co](https://engineerletters.co) (engineer letter cases, powered by Oasis Engineering)
+- Wind Calculations: [windcalculations.com](https://windcalculations.com)
 
 Contact: [info@oasisengineering.com](mailto:info@oasisengineering.com)

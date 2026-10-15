@@ -1,34 +1,46 @@
-# Fast Intake Map
+# Fast intake map
 
-Use this page when the main question is simply: where should this person go first?
+Use this page to answer one question: where should this person go first?
 
-| Request | Best link | Use this when |
-| --- | --- | --- |
-| General engineer letter | [oasisengineering.com/engineer-letters#form](https://oasisengineering.com/engineer-letters#form) | The request is for a general structural or certification letter and is not clearly tied to a permit review path. |
-| Permit or compliance letter | [oasisengineering.com/lets-get-in-touch-permit-letter/](https://oasisengineering.com/lets-get-in-touch-permit-letter/) | A city, county, inspector, or reviewer is asking for a letter tied to permitting or compliance. |
-| Roofing engineer letter / virtual roof inspection | [oasisengineering.com/roof-virtual-insp-same-day/](https://oasisengineering.com/roof-virtual-insp-same-day/) | Reroof, dry-in, final inspection, permit closeout, or third-party signoff for roofing work. |
-| Manufactured or mobile home foundation certification | [oasisengineering.com/manufactured-home-foundation-letter/](https://oasisengineering.com/manufactured-home-foundation-letter/) | Mortgage, lender, HUD, tie-down, or permanent foundation certification requests. |
-| Wind calculations / wind engineering report | [windcalculations.com/contact](https://windcalculations.com/contact) | Wind loads, wind pressures, ASCE 7 reports, missing product approvals, missing NOAs, S&S drawings, doors/windows/openings. |
-| Energy calculations | [oasisengineering.com/energy-calcs-intake-form/](https://oasisengineering.com/energy-calcs-intake-form/) | Energy compliance, residential permit energy docs, Manual J / S / D. |
-| Soil compaction testing | [oasisengineering.com/soil-compaction-testing/](https://oasisengineering.com/soil-compaction-testing/) | Compaction verification, field density testing, slab/foundation pad certification. |
-| Ready Set Orange program | [readysetorange.com](https://readysetorange.com/) | Questions or requests that belong to the Ready Set Orange program in Orange County, Florida. |
-| Container structures or custom scope | [oasisengineering.com/contact](https://oasisengineering.com/contact) | Shipping container projects, custom structural work, or anything that does not fit a dedicated form. |
-| General fallback | [oasisengineering.com/contact](https://oasisengineering.com/contact) | The request is neutral, single-topic, and still unclear after a quick review. |
+Every `oasisengineering.com/contact/?service=…` link opens the Oasis intake already set to that service. Old links (for example `/lets-get-in-touch-permit-letter/` or `/energy-calcs-intake-form/`) still redirect to these, but link to these directly.
 
-## Wind Package Matches
+| Request | Link | Use when | Published price |
+|---|---|---|---|
+| Engineer letter | [/contact/?service=letter.general](https://oasisengineering.com/contact/?service=letter.general) | A city, county, inspector, lender or buyer wants an engineer's letter: after-the-fact or unpermitted work, covered work, a missed inspection, a structural change, a component letter | Range shown in the intake |
+| Manufactured / mobile home foundation | [/manufactured-home-foundation-letter/](https://oasisengineering.com/manufactured-home-foundation-letter/) | FHA, VA, USDA, HUD 7584, a lender or refinance, permanent foundation, tie-downs | **$450 flat** |
+| Modular / Boxabl foundation | [/contact/?service=letter.box-foundation](https://oasisengineering.com/contact/?service=letter.box-foundation) | A Boxabl or other modular unit needs a foundation certification letter | **$495 flat** |
+| Roof virtual inspection / reroof letter | [/contact/?service=letter.roof-virtual](https://oasisengineering.com/contact/?service=letter.roof-virtual) | Reroof, dry-in, final, permit closeout, third-party roof sign-off | Quoted per roof |
+| Tampa Bay in-person inspection | [/contact/?service=letter.tampa-inspection](https://oasisengineering.com/contact/?service=letter.tampa-inspection) | An engineer needs to see it in person in the Tampa Bay area | Quoted per visit |
+| In-person inspection elsewhere | [/contact/?service=field.site-inspection](https://oasisengineering.com/contact/?service=field.site-inspection) | On-site visit outside Tampa Bay, scheduled around travel | Quoted per visit + travel |
+| Wind calculations / wind report | [windcalculations.com/contact](https://windcalculations.com/contact) | Wind loads, ASCE 7, missing product approvals or NOAs, signed and sealed drawings for openings, cladding or solar | Quoted |
+| Energy calculations | [/contact/?service=calc.energy](https://oasisengineering.com/contact/?service=calc.energy) | Energy code compliance for a permit, Manual J / S / D | Range shown in the intake |
+| Plan review and certification | [/contact/?service=review.plans](https://oasisengineering.com/contact/?service=review.plans) | Independent review and seal of existing plans | Range shown in the intake |
+| New home design | [/contact/?service=design.new-construction](https://oasisengineering.com/contact/?service=design.new-construction) | Structural design for a new house | Custom quote |
+| Remodel / addition | [/contact/?service=design.remodel-addition](https://oasisengineering.com/contact/?service=design.remodel-addition) | Additions, wall removals, renovations | Custom quote |
+| Pergola / pool / patio | [/contact/?service=design.pergola-pool-patio](https://oasisengineering.com/contact/?service=design.pergola-pool-patio) | Outdoor structures, pool decks, retaining walls near pools | Custom quote |
+| Shipping container home | [/oasis-container-homes/](https://oasisengineering.com/oasis-container-homes/) or [/contact/?service=design.container-home](https://oasisengineering.com/contact/?service=design.container-home) | Container homes, container foundations | Custom quote |
+| Soil compaction testing | [/contact/?service=field.soil-compaction](https://oasisengineering.com/contact/?service=field.soil-compaction) | Density testing and PE certification before a pour, re-tests | From $1,100 |
+| Public art / monuments | [/public-art-monument-engineering/](https://oasisengineering.com/public-art-monument-engineering/) | Sculptures, monuments, custom installations | Custom quote |
+| Consulting | [/contact/?service=consulting.general](https://oasisengineering.com/contact/?service=consulting.general) | Expert opinion, project support, anything custom | Custom quote |
+| Downloadable plans and guides | [/shop/](https://oasisengineering.com/shop/) | Wants plans or guides to download, not a custom service | From $5.99 |
+| Ready Set Orange | [readysetorange.com](https://readysetorange.com/) | Orange County, Florida program requests | — |
+| Contractors who want field work | [/field-partners/](https://oasisengineering.com/field-partners/) | Contractors, inspectors and trades who want to capture evidence for the engineer (they're not clients) | — |
+| Not sure | [/contact/](https://oasisengineering.com/contact/) | Broad, early-stage, or more than one need | — |
 
-When a wind request clearly matches one of the pre-packaged solutions, use the direct package page instead of the generic wind contact form:
+## Wind package matches
 
-- Full package map: [wind-packages.md](wind-packages.md)
-- Window wind certification: [https://windcalculations.com/-window-wind-load-certification-hvhz-fbc-2023](https://windcalculations.com/-window-wind-load-certification-hvhz-fbc-2023)
-- Exterior door wind certification: [https://windcalculations.com/-exterior-door-wind-load-certification-hvhz](https://windcalculations.com/-exterior-door-wind-load-certification-hvhz)
-- Roofing wind load letter: [https://windcalculations.com/roofing-wind-load-letter-hvhz](https://windcalculations.com/roofing-wind-load-letter-hvhz)
-- Roof-mounted solar wind certification: [https://windcalculations.com/-pv-solar-panel-wind-load-certification-roof-mounted](https://windcalculations.com/-pv-solar-panel-wind-load-certification-roof-mounted)
-- Generic residential wind calculations: [https://windcalculations.com/engineering-wind-load-calculations](https://windcalculations.com/engineering-wind-load-calculations)
+When a wind request clearly matches a packaged product, use the package page instead of the general wind contact form:
 
-## Routing Notes
+- Full list: [wind-packages.md](wind-packages.md)
+- Window wind certification: [windcalculations.com/-window-wind-load-certification-hvhz-fbc-2023](https://windcalculations.com/-window-wind-load-certification-hvhz-fbc-2023)
+- Exterior door wind certification: [windcalculations.com/-exterior-door-wind-load-certification-hvhz](https://windcalculations.com/-exterior-door-wind-load-certification-hvhz)
+- Roofing wind load letter: [windcalculations.com/roofing-wind-load-letter-hvhz](https://windcalculations.com/roofing-wind-load-letter-hvhz)
+- Roof-mounted solar wind certification: [windcalculations.com/-pv-solar-panel-wind-load-certification-roof-mounted](https://windcalculations.com/-pv-solar-panel-wind-load-certification-roof-mounted)
+- General residential wind calculations: [windcalculations.com/engineering-wind-load-calculations](https://windcalculations.com/engineering-wind-load-calculations)
 
-- If a request is described as a letter but the substance is wind engineering, classify it as a wind project and route it to the wind intake.
-- If a wind request clearly matches a packaged solution, route to the direct package URL first.
-- If a request is emotional, confrontational, legally sensitive, or asks for pricing or engineering opinions, route to a human instead of relying on automation.
-- If the request covers multiple unrelated needs, use general contact rather than forcing it into one lane.
+## Routing notes
+
+- If it's called a letter but the substance is wind engineering, route it to wind.
+- If someone isn't sure which letter they need, the general engineer-letter intake sorts it out with a few taps.
+- If the request is emotional, confrontational or legally sensitive, or asks for a price on custom work or an engineering opinion, hand it to a person.
+- If it covers several unrelated needs, use [/contact/](https://oasisengineering.com/contact/).

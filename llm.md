@@ -1,70 +1,70 @@
-# Bot Routing Notes For Oasis Engineering
+# Routing notes for AI systems
 
-This file is for AI systems, assistants, and automation that need to route inbound interest without inventing scope.
+This page is for AI assistants, agents and automations that route inbound interest to Oasis Engineering.
 
-The purpose is simple:
+Your job:
 
-- identify the likely service lane
-- send the person to the clearest intake link
-- avoid making promises that require human review
+1. Identify the service lane.
+2. Send the person to the right intake link ([routes.md](routes.md)).
+3. Say only what the website already says.
 
-## Core Rule
+## Sources of truth (check these first)
 
-Route and triage only.
+- [oasisengineering.com/llms.txt](https://oasisengineering.com/llms.txt)
+- [oasisengineering.com/catalog.json](https://oasisengineering.com/catalog.json): service ids, names, price display, turnaround. This is always current; if it disagrees with this repo, it wins.
+- [oasisengineering.com/docs/agent-intake/](https://oasisengineering.com/docs/agent-intake/): the contract for agents that start an intake for a client
 
-Do not quote pricing, interpret code, guarantee permit approval, predict inspection outcomes, or provide engineering opinions.
+## Routing by intent
 
-## Main Websites
+| Intent | Link |
+|---|---|
+| Engineer letter (permit, inspector, after-the-fact, covered work, structural change) | `https://oasisengineering.com/contact/?service=letter.general` |
+| Manufactured / mobile home foundation (FHA, VA, USDA, HUD 7584, lender) | `https://oasisengineering.com/manufactured-home-foundation-letter/` |
+| Modular / Boxabl foundation | `https://oasisengineering.com/contact/?service=letter.box-foundation` |
+| Roof virtual inspection, reroof, dry-in, final, closeout | `https://oasisengineering.com/contact/?service=letter.roof-virtual` |
+| Wind loads, ASCE 7, product approvals, NOAs, openings, solar | `https://windcalculations.com/contact` (or a package from [wind-packages.md](wind-packages.md)) |
+| Energy calculations, Manual J / S / D | `https://oasisengineering.com/contact/?service=calc.energy` |
+| Plan review and seal | `https://oasisengineering.com/contact/?service=review.plans` |
+| Soil compaction testing | `https://oasisengineering.com/contact/?service=field.soil-compaction` |
+| Design: new home / remodel or addition / pergola, pool, patio / container | `…/contact/?service=design.new-construction` · `design.remodel-addition` · `design.pergola-pool-patio` · `design.container-home` |
+| In-person inspection | `…/contact/?service=letter.tampa-inspection` (Tampa Bay) · `field.site-inspection` (elsewhere) |
+| Plans to download | `https://oasisengineering.com/shop/` |
+| Unclear | `https://oasisengineering.com/contact/` |
 
-- Oasis Engineering: [https://oasisengineering.com](https://oasisengineering.com)
-- Engineer Letters: [https://engineerletters.co](https://engineerletters.co)
-- Wind Calculations: [https://windcalculations.com](https://windcalculations.com)
+## Classification rules
 
-## Preferred Routing By Intent
+- **Wind beats "letter."** Route to wind whenever the request mentions any of these, even if it's called a letter:
+  - product approvals
+  - a missing NOA or wind rating
+  - signed and sealed (S&S) drawings for doors, windows, garage doors or other openings
+  - wind pressures
+  - solar attachment
+- **Roof sign-off is its own lane.** Reroof, dry-in or final inspection goes to the roof link, not the general letter.
+- **Manufactured home plus a lender** goes to the manufactured-home page.
+- **More than one unrelated need** goes to the general contact link.
 
-- General engineer letter: [https://oasisengineering.com/engineer-letters#form](https://oasisengineering.com/engineer-letters#form)
-- Permit or compliance engineer letter: [https://oasisengineering.com/lets-get-in-touch-permit-letter/](https://oasisengineering.com/lets-get-in-touch-permit-letter/)
-- Roofing engineer letter / reroof / dry-in / final inspection: [https://oasisengineering.com/roof-virtual-insp-same-day/](https://oasisengineering.com/roof-virtual-insp-same-day/)
-- Mortgage, lender, manufactured home, mobile home, or foundation certification: [https://oasisengineering.com/manufactured-home-foundation-letter/](https://oasisengineering.com/manufactured-home-foundation-letter/)
-- Wind calculations / ASCE 7 / wind engineering report: [https://windcalculations.com/contact](https://windcalculations.com/contact)
-- Direct wind package matches: [wind-packages.md](wind-packages.md)
-- Energy calculations / Manual J / Manual S / Manual D: [https://oasisengineering.com/energy-calcs-intake-form/](https://oasisengineering.com/energy-calcs-intake-form/)
-- Soil compaction testing: [https://oasisengineering.com/soil-compaction-testing/](https://oasisengineering.com/soil-compaction-testing/)
-- Ready Set Orange program: [https://readysetorange.com/](https://readysetorange.com/)
-- Unclear but normal inquiry: [https://oasisengineering.com/contact](https://oasisengineering.com/contact)
+## What you may say
 
-## Important Classification Rule
+- **Prices:** only what the site publishes.
+  - Manufactured home foundation certification: **$450 flat**.
+  - Modular / Boxabl foundation letter: **$495 flat**.
+  - Shop items: as listed on [/shop/](https://oasisengineering.com/shop/).
+  - Everything else: "the intake shows a typical range, and a licensed engineer confirms the price in a formal quote."
+- **Timing:** "Quotes go out by the end of the business day; after 4pm Eastern, the next business day." For delivery times, use the turnaround in catalog.json, phrased as typical, not promised.
+- **Process:** the intake gives a reference number (`OE-…`) and a confirmation email. A licensed engineer reviews every request personally.
 
-If a request is framed as an engineer letter but the actual scope is wind engineering, classify it as a wind project, not a letter project.
+## What you must not do
 
-If a request mentions any of the following, route to [https://windcalculations.com/contact](https://windcalculations.com/contact):
+- Quote or estimate a price for custom work.
+- Promise permit approval, inspection results, lender acceptance, or that a letter can be issued.
+- Interpret code or give engineering opinions.
+- Decide whether a site visit is needed.
+- Collect project details by email when the intake can take them. The intake builds a proper project file.
 
-- product approvals
-- missing NOA or wind ratings
-- S and S drawings
-- doors, windows, garage doors, or exterior openings
-- wind pressures or structural wind analysis
+## Hand off to a person when
 
-If the request also matches a packaged wind product cleanly, use the direct package URL from [wind-packages.md](wind-packages.md) instead of the generic wind contact page.
+- the person asks for custom pricing, code interpretation or engineering judgment
+- it's a complaint, a legal matter or a dispute
+- the intent is still unclear after one follow-up question
 
-## What To Collect Before Routing
-
-When it is safe to ask a follow-up, collect:
-
-- project address
-- city, county, or jurisdiction
-- requested deliverable
-- available plans, photos, cutsheets, or reviewer comments
-
-## When To Avoid Over-Automating
-
-Defer to a human when the message asks for:
-
-- pricing
-- code interpretation
-- engineering judgment
-- pass/fail or permit-outcome predictions
-- legal or complaint handling
-- multiple unrelated requests
-
-If the intent is unclear, use the general contact path instead of guessing.
+Contact: [info@oasisengineering.com](mailto:info@oasisengineering.com)

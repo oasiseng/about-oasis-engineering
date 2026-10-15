@@ -1,72 +1,55 @@
-# Engineer Letters Guide
+# Engineer letters guide
 
-`Engineer letters` is a broad phrase. In practice, Oasis handles several distinct letter paths, and choosing the right one matters.
+"Engineer letter" covers several different jobs. Most of them now start in one place: the intake asks a few questions about the situation and sends the case down the right path.
 
-This page is here to make that split obvious.
+## Most letters: one intake
 
-## General Engineer Letter
+Use this when a building department, inspector, lender or buyer needs an engineer's letter for any of these:
 
-Use this when the request is for a general structural or certification letter and is not clearly tied to a permit-review workflow.
+- after-the-fact or unpermitted work
+- work that's already covered (drywall, roofing, finished)
+- a missed or failed inspection
+- a structural change (walls removed, beams, retaining walls, additions)
+- a component or product (stairs, decks, attachments)
+- permit closeout or other compliance documentation
 
-Start here:
+**Start:** [oasisengineering.com/contact/?service=letter.general](https://oasisengineering.com/contact/?service=letter.general)
 
-- [https://oasisengineering.com/engineer-letters#form](https://oasisengineering.com/engineer-letters#form)
+The intake asks:
 
-## Permit Or Compliance Letter
+- what the situation is
+- who is asking for the letter
+- whether the work is still visible
+- whether there's a permit
+- how urgent it is
 
-Use this when a city, county, reviewer, or inspector is asking for a letter tied to permitting, compliance, covered work, or closeout.
+It then takes photos and documents and shows a typical range (usually $295–$1,500, scoped per case). These cases are handled under **EngineerLetters.co**, powered by Oasis Engineering. A licensed engineer reviews the evidence and sends a formal proposal by the end of the business day.
 
-Start here:
+The engineer decides whether a letter can be issued from the evidence. No one can promise that in advance.
 
-- [https://oasisengineering.com/lets-get-in-touch-permit-letter/](https://oasisengineering.com/lets-get-in-touch-permit-letter/)
+## Manufactured / mobile home foundation certification
 
-## Mortgage, Lender, Manufactured, Or Mobile Home Foundation Certification
+For underwriting, FHA / VA / USDA, HUD 7584, refinances, closings, permanent foundations and tie-downs.
 
-Use this when the letter is tied to underwriting, lender review, refinancing, closing, permanent foundation confirmation, HUD-style requirements, or tie-down/foundation certification.
+- **$450 flat**, paid at checkout.
+- **Start:** [oasisengineering.com/manufactured-home-foundation-letter/](https://oasisengineering.com/manufactured-home-foundation-letter/)
 
-Start here:
+## Modular / Boxabl foundation letter
 
-- [https://oasisengineering.com/manufactured-home-foundation-letter/](https://oasisengineering.com/manufactured-home-foundation-letter/)
+- **$495 flat**, paid at checkout.
+- **Start:** [oasisengineering.com/contact/?service=letter.box-foundation](https://oasisengineering.com/contact/?service=letter.box-foundation)
 
-## Roofing Letters
+## Roof letters
 
-Roofing requests are their own lane. If the request is about reroof work, missed inspections, dry-in, final signoff, or roof permit closeout, use the roofing intake instead of a generic engineer-letter page.
+Reroof sign-off, dry-in, final, missed roof inspections and roof permit closeout are their own lane, handled by virtual inspection.
 
-Start here:
+**Start:** [oasisengineering.com/contact/?service=letter.roof-virtual](https://oasisengineering.com/contact/?service=letter.roof-virtual)
 
-- [https://oasisengineering.com/roof-virtual-insp-same-day/](https://oasisengineering.com/roof-virtual-insp-same-day/)
+## Needs an engineer on site
 
-## Wind-Related Requests
+- Tampa Bay: [/contact/?service=letter.tampa-inspection](https://oasisengineering.com/contact/?service=letter.tampa-inspection)
+- Elsewhere: [/contact/?service=field.site-inspection](https://oasisengineering.com/contact/?service=field.site-inspection)
 
-Some requests sound like engineer-letter requests, but if the actual scope is wind engineering they should be treated as wind projects instead of letter projects.
+## Wind-related "letters"
 
-If the issue involves any of the following, use the wind intake first:
-
-- wind ratings
-- wind pressures
-- product approval gaps
-- missing NOAs
-- doors, windows, garage doors, or exterior openings
-- signed and sealed wind drawings
-
-Start here:
-
-- [https://windcalculations.com/contact](https://windcalculations.com/contact)
-
-If the request matches a pre-packaged wind solution exactly, use the direct package URL list in [wind-packages.md](wind-packages.md).
-
-## What To Send
-
-Whichever lane you choose, the same core context helps:
-
-- project address
-- city, county, or AHJ
-- what the letter needs to accomplish
-- plans, photos, cutsheets, comments, or existing reports
-- deadline or submission timing
-
-## If You Are Not Sure
-
-Use the general contact form:
-
-- [https://oasisengineering.com/contact](https://oasisengineering.com/contact)
+If the real question is wind loads, product approvals, a missing NOA, or signed and sealed drawings for windows, doors, garage doors, cladding or solar, it's a wind project. Route it to [windcalculations.com/contact](https://windcalculations.com/contact), or to a package in [wind-packages.md](wind-packages.md).
