@@ -23,7 +23,7 @@ The intake asks:
 - whether there's a permit
 - how urgent it is
 
-It then takes photos and documents and shows a typical range (usually $295–$1,500, scoped per case). These cases are handled under **EngineerLetters.co**, powered by Oasis Engineering. A licensed engineer reviews the evidence and sends a formal proposal by the end of the business day.
+It then takes photos and documents and shows a typical range (usually $295–$1,500, scoped per case). These cases are handled under **EngineerLetters.co**, powered by Oasis Engineering. A licensed engineer reviews the evidence and sends a formal quote, usually the same business day. The quote is a web page the client accepts and pays on; the sealed letter is delivered on that same page.
 
 The engineer decides whether a letter can be issued from the evidence. No one can promise that in advance.
 
@@ -47,8 +47,14 @@ Reroof sign-off, dry-in, final, missed roof inspections and roof permit closeout
 
 ## Needs an engineer on site
 
-- Tampa Bay: [/contact/?service=letter.tampa-inspection](https://oasisengineering.com/contact/?service=letter.tampa-inspection)
+- Tampa Bay (including private provider inspections on new construction): [/contact/?service=letter.tampa-inspection](https://oasisengineering.com/contact/?service=letter.tampa-inspection)
 - Elsewhere: [/contact/?service=field.site-inspection](https://oasisengineering.com/contact/?service=field.site-inspection)
+
+## Not a letter: FEMA Elevation Certificate
+
+A lender, insurer or the building department asking for an "elevation letter" usually means a FEMA Elevation Certificate, which is its own service (from $450, includes a free LOMA qualification review).
+
+**Start:** [/contact/?service=field.elevation-cert](https://oasisengineering.com/contact/?service=field.elevation-cert)
 
 ## Wind-related "letters"
 

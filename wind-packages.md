@@ -1,6 +1,6 @@
 # Wind Package Direct Links
 
-Verified against the live `windcalculations.com` package catalog on March 18, 2026.
+Verified against the live `windcalculations.com` package catalog on November 5, 2026 (every link below returned 200).
 
 Use this page when a wind-related request clearly matches one of the pre-packaged solutions on [https://windcalculations.com/wind-calc-packages](https://windcalculations.com/wind-calc-packages).
 
